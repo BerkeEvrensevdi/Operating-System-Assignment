@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590785638 source:c:\users\berke\desktop\osproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<pthread.h>
+	<time.h>
+
